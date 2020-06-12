@@ -3,3 +3,6 @@ first time using git, excited!
 第一次使用Git这个东西，有意思。。
 3rd  insert line again
 4th  hello world!!!
+
+5th  hello python, i am your father!
+wo shi ni 88
