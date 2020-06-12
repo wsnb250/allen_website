@@ -1,3 +1,4 @@
 first time using git, excited!
-
-第一次使用git，有意思。。
+2nd  insert line here
+第一次使用Git这个东西，有意思。。
+3rd  insert line again
