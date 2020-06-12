@@ -2,3 +2,4 @@ first time using git, excited!
 2nd  insert line here
 第一次使用Git这个东西，有意思。。
 3rd  insert line again
+4th  hello world!!!
